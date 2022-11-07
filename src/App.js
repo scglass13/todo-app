@@ -29,7 +29,7 @@ function App() {
   return (
     <div className="App">
       <header className="header">
-        <h1 className="title">Sean's To-Do App</h1>
+        <h1 className="title">To-Do App</h1>
       </header>
       <Form
         todos={todos}
